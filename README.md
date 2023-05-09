@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá 👋
+Eu sou Israel Modzelewski, professor de Pensamento Computacional, Robótica e Física.
+israel.modzelewski@escola.pr.gov.br
 
 <!--
 **ModzeIsrael/ModzeIsrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
